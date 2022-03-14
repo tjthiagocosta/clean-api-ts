@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tjthiagocosta/api-rest-ts/issues"
   },
-  "homepage": "https://github.com/tjthiagocosta/api-rest-ts#readme"
+  "homepage": "https://github.com/tjthiagocosta/api-rest-ts#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
