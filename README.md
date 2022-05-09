@@ -54,6 +54,10 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 5. ✅ Retorna erro **500** se der erro ao tentar gerar o token de acesso
 6. ✅ Retorna erro **500** se der erro ao tentar atualizar o usuário com o token de acesso gerado
 
+
+# Coverage até o momento:
+<a href="https://ibb.co/K0ZXznD"><img src="https://i.ibb.co/4my7gk2/Screen-Shot-2022-05-09-at-12-45-57.png" alt="Screen-Shot-2022-05-09-at-12-45-57" border="0"></a>
+
 ## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/)
 
 > ## Princípios
